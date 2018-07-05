@@ -1,0 +1,24 @@
+
+.grid-div {
+  background-color: #d9d9d9;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  font-size: 0px;
+}
+.hover {
+  background-color: #a6a6a6;
+}
+div {
+  font-size: 0px;
+}
+button {
+  display: inline-block;
+  background-color: pink;
+  border: none;
+  height: 40px;
+  width: 120px;
+  margin-right: 76px;
+  font-size: 20px;
+  font-style: Arial;
+}
